@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Poppins:wght@300;400;500;600&family=Roboto&display=swap');
+@import url("bootstrap.css");
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color:#F0F2F5;
+}
+.theme {
+    color: #20DC49;
+    cursor: pointer;
+    text-decoration-line: none;
+}
+.bgtheme {
+    background-color: #20DC49;
+}
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+.blur {
+    backdrop-filter: blur(20px);
+    background: rgba(0, 0, 0, 0.15);
+}
+.h600 {
+    height: 600px;
+}
